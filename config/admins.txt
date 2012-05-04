@@ -1,0 +1,3 @@
+somebyondkeyinlowercase - Game Master
+someotherbyondkey - Game Admin
+andanotherbyondkey - Retired Admin

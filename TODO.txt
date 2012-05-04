@@ -14,10 +14,13 @@ ONLY SLIGHTLY LESS IMMEDIATE
 - remove things that exist only to annoy
    - clown gear
    - mime gear
+   - offensive .oggs, text, code, etc.
 - systematically seek out and remove all instances of the abominable 'datums'
    - replace with 'data' or 'datum' as apropos
+- NSS Exodus -> NSS Icarus (incorporate Wojo's new graphic in the map)
 
 LONGER-TERM
 
 - make the UI less exquisitely horrible
 - make the game less "an atmospheric simulation with other stuff"
+- switch from MySQL to SQLite
